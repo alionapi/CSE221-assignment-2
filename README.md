@@ -171,3 +171,11 @@ Implements:
 * Device deletion
 * Exception handling
 * Printing functionality
+
+## Course Information
+
+
+
+**Course:** CSE221 Data Structures
+
+**Semester:** Fall 2024
